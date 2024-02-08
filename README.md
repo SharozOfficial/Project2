@@ -190,4 +190,4 @@ Our next steps would be the following:
 
 ## Risk Factor Resource Webpage
 
-The best means of prevention is through education, which is why we created a [web page](https://sharozsid.github.io/project-4-predicting-CVD/) containing links to resources related to each cardiovascular disease risk indicator. 
+The best means of prevention is through education, which is why we created a [web page](https://https://github.com/SharozOfficial/Project2/) containing links to resources related to each cardiovascular disease risk indicator. 

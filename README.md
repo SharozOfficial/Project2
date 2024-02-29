@@ -41,7 +41,7 @@ For example, with the 'exercise' risk factor, we were to create the following vi
 
 The script containing the codes and visualisations can be found [here](Notebooks/1-Data_Exploration/cvd_data_exploration.ipynb).
 
-Furthermore, a [Tableau dashboard](https://public.tableau.com/app/profile/ayroza.dobson/viz/Project4-PredictingCVD/Story1?publish=yes) was created to easily convey the disparity of heart disease mortality by state, gender, and race to an audience.
+Furthermore, a [Tableau dashboard](https://public.tableau.com/app/profile/sharoz.siddique/viz/CVDMortalityTableau_17092119860220/Dashboard2?publish=yes) was created to easily convey the disparity of heart disease mortality by state, gender, and race to an audience.
 
 ## Data Preprocessing
 - The classes in our dataset were heavily imbalanced: for every 1 person who had heart disease, there were 12 who did not. Therefore, all data points outside of 1 standard deviation from the mean were removed. This, along with random oversampling allowed us to balance the classes in our dataset.

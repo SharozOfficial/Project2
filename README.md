@@ -39,7 +39,6 @@ For example, with the 'exercise' risk factor, we were to create the following vi
 ![image](https://github.com/ashejaz/project-4-predicting-CVD/assets/126973634/912117f1-0365-4c3d-bae7-34c4221accae)
 
 
-The script containing the codes and visualisations can be found [here](Notebooks/1-Data_Exploration/cvd_data_exploration.ipynb).
 
 Furthermore, a [Tableau dashboard](https://public.tableau.com/app/profile/sharoz.siddique/viz/CVDMortalityTableau_17092119860220/Story1?publish=yes) was created to easily convey the disparity of heart disease mortality by state, gender, and race to an audience.
 
